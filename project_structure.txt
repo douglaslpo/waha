@@ -1,0 +1,12 @@
+.
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── tools.py
+│   └── resources.py
+├── data/
+│   └── contacts.json
+├── docker-compose.yml
+├── Dockerfile
+├── requirements.txt
+└── README.md 
